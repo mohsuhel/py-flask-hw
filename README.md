@@ -16,5 +16,18 @@
 
   # create a account on DockerHub and login in the instance
   ![4](https://github.com/mohsuhel/py-flask-hw/assets/127845338/e54e2023-2526-42e4-896c-d98d1ef294d4)
+
+  # using docker to build the image of flask application
+  ![55](https://github.com/mohsuhel/py-flask-hw/assets/127845338/da63f7f9-8790-4a12-b9eb-c04ed7f4090f)
+  # check the image is created or not
+  - sudo docker images
+    ![6](https://github.com/mohsuhel/py-flask-hw/assets/127845338/b55d43b6-0ac7-40f5-8a9d-70a1e6060e91)
+
+  # run the image into container
+  - sudo docker run -itd -p portnum :portnum <image-name>
+  ![7](https://github.com/mohsuhel/py-flask-hw/assets/127845338/b19a087c-2ba6-4ccd-bad8-015bb97fb296)
+
+
+
   
 
