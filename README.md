@@ -13,3 +13,8 @@
 - sudo apt update
 - sudo apt install docker.io
   ![3](https://github.com/mohsuhel/py-flask-hw/assets/127845338/dd512d69-70dd-4ac4-967b-555889a21614)
+
+  # create a account on DockerHub and login in the instance
+  ![4](https://github.com/mohsuhel/py-flask-hw/assets/127845338/e54e2023-2526-42e4-896c-d98d1ef294d4)
+  
+
