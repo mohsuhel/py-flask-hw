@@ -1,4 +1,4 @@
-# Flask-Helloworld-CICD
+# Py-Flask-Helloworld
 # steps involved to run python -flask to print the "hello world"
 
 # 1. Go to Aws console and Launch the EC2 Server (server-1/ubuntu22.04 LTS)
