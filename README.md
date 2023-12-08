@@ -24,8 +24,15 @@
     ![6](https://github.com/mohsuhel/py-flask-hw/assets/127845338/b55d43b6-0ac7-40f5-8a9d-70a1e6060e91)
 
   # run the image into container
-  - sudo docker run -itd -p portnum :portnum <image-name>
+  - sudo docker run -itd -p portnum :portnum image-name
   ![7](https://github.com/mohsuhel/py-flask-hw/assets/127845338/b19a087c-2ba6-4ccd-bad8-015bb97fb296)
+
+  # check the ip address with port whether application is running or not
+  ![9](https://github.com/mohsuhel/py-flask-hw/assets/127845338/d37394ee-b8c4-4d79-9a14-999a2a56f40e)
+
+  # docker hub Image details
+  docker pull mdsuh/py-hw:1.0
+
 
 
 
